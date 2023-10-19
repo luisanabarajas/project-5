@@ -30,11 +30,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 <div>
-    <a href="https://www.loom.com/share/ddc4fa38f05b42b39c71c11fdb426eac">
+    <a href="https://www.loom.com/share/2c562251b0cf4df18814a2847da92c9e">
       <p>Library | Loom - 19 October 2023 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/ddc4fa38f05b42b39c71c11fdb426eac">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ddc4fa38f05b42b39c71c11fdb426eac-with-play.gif">
+    <a href="https://www.loom.com/share/2c562251b0cf4df18814a2847da92c9e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2c562251b0cf4df18814a2847da92c9e-with-play.gif">
     </a>
   </div>
 
