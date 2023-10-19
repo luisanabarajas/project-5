@@ -29,7 +29,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-<div style="position: relative; padding-bottom: 64.74820143884892%; height: 0;"><iframe src="https://www.loom.com/embed/ddc4fa38f05b42b39c71c11fdb426eac?sid=9d0b6675-9d88-41b6-9fd1-ed3f8e8c2486" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/ddc4fa38f05b42b39c71c11fdb426eac">
+      <p>Library | Loom - 19 October 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ddc4fa38f05b42b39c71c11fdb426eac">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ddc4fa38f05b42b39c71c11fdb426eac-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
